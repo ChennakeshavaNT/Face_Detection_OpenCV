@@ -29,13 +29,25 @@ In Simple Terms- Face detection just means that a system is able to identify tha
 - ***Numpy Version(1.19.1) or above***
 1. Open command prompt/terminal
 2. type import numpy and press enter (if numpy is already installed, you  will not get any errors)
-- Matplotlib Version(3.3.1) or above
-- Jupyter Notebook (or Any other IDE that can run .ipynb files)
+3. If your getting error "command not found", then use the command "pip install numpy"
+[--click here for Help](https://numpy.org/install/)
+- ***Matplotlib Version(3.3.1) or above***
+1. Open command prompt/terminal
+2. type import matplotlib and press enter (if matplotlib is already installed, you  will not get any errors)
+3. If your getting error "command not found", then use the command "pip install matplotlib"
+[--click here for Help](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.02-Installing%20Matplotlib/)
+- ***Jupyter Notebook (or Any other IDE that can run .ipynb files)***
+1. Download the Anaconda Installer from https://www.anaconda.com/products/individual
+2. follow this [procedure](https://docs.anaconda.com/anaconda/install/) and install
+3. Open Anaconda navigator
+4. Open Jupyter Notebook
+
 
 ***2. Execution:***
 - Open Jupyter note book
-- Upload the file.ipynb file 
-- keep DataSet in the same folder as file.ipynb file
+- Upload the file.ipynb file using upload button
+- Upload DataSet.xml and keep DataSet in the same folder as file.ipynb file
+- click/double click to open the file.ipynb
 - Click run Option from menu or click "shift" + "enter" to run each cell one by one 
 
 
