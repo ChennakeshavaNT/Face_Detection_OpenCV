@@ -50,8 +50,21 @@ In Simple Terms- Face detection just means that a system is able to identify tha
 - click/double click to open the file.ipynb
 - Click run Option from menu or click "shift" + "enter" to run each cell one by one 
 
+## ***Usage***
+This project does not restrict any user for its features, nor will it ask payment for its features. This project is **Free to Use** and can be used by any person globally whereas the **DataSet is Confidential(Contact Creator to get a copy).**
+
+## ***Contributing***
+This Version of the Project is not final. This Project maybe subject to change by the Creator. 
+**Contact the Creator for contributing to project**
+
+## *Creators:-*
+### *Chennakeshava NT*
+
+Certified Microsoft Technology Associate | Data Science Enthusiast
+
+Contact:- 
+- Mail:- [Chennakeshavant@gmail.com]
+- LinkedIn [Profile](https://www.linkedin.com/in/chennakeshavant/)
 
 
 
-For Windows --> *'DIVX'¶
-For Linux or MacOS --> *'XVID'
