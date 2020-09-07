@@ -5,13 +5,14 @@ In Simple Terms- Face detection just means that a system is able to identify tha
 
 
 ## This Repository contains Three different Approaches/Applications:
-### FACE DETECTION IN IMAGES
-This section deals with Face detection in static images.
-### FACE DETECTION IN NON REAL-TIME
-This section deals with Face Detection for Video as input that previous recorded.
-### FACE DETECTION IN REAL-TIME
-This section deals with Face Detection for Dynamic Video such as Video directly obtained from cameras that are recording in in Real-time
+- **FACE DETECTION IN IMAGES:-** This section deals with Face detection in static images.
+- **FACE DETECTION IN NON REAL-TIME:-** This section deals with Face Detection for Video as input that previous recorded.
+- **FACE DETECTION IN REAL-TIME:-** This section deals with Face Detection for Dynamic Video such as Video directly obtained from cameras that are recording in in Real-time
 
+## TECH STACK (Built with):
+- Python 3
+- Python Libraries Numpy, Matplotlib and OpenCV
+- Pre-Trained Frontal-Face DataSet
 
 For Windows --> *'DIVX'¶
 For Linux or MacOS --> *'XVID'
