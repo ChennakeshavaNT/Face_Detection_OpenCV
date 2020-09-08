@@ -38,7 +38,7 @@ In Simple Terms- Face detection just means that a system is able to identify tha
 [--click here for Help](https://problemsolvingwithpython.com/06-Plotting-with-Matplotlib/06.02-Installing%20Matplotlib/)
 - ***Jupyter Notebook (or Any other IDE that can run .ipynb files)***
 1. Download the Anaconda Installer from https://www.anaconda.com/products/individual
-2. follow this [procedure](https://docs.anaconda.com/anaconda/install/) and install
+2. follow the [Installation procedure](https://docs.anaconda.com/anaconda/install/) and install anaconda
 3. Open Anaconda navigator
 4. Open Jupyter Notebook
 
