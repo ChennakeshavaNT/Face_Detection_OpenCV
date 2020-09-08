@@ -57,7 +57,7 @@ This project does not restrict any user for its features, nor will it ask paymen
 This Version of the Project is not final. This Project maybe subject to change by the Creator. 
 **Contact the Creator for contributing to project**
 
-## *Creators:-*
+## *Creator:-*
 ### *Chennakeshava NT*
 
 Certified Microsoft Technology Associate | Data Science Enthusiast
